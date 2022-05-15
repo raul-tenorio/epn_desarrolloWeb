@@ -1,0 +1,49 @@
+.alto {
+    @media (min-width:992px) {
+        height: 100vh;
+    }
+
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.add {
+    margin-right: 10px;
+} 
+
+.add input {
+    height: 38px;
+    width: 250px;
+}
+
+.row {
+    display: block;
+}
+
+.row article {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    margin-top: 15px;
+    min-width: 300px;
+    max-width: 300px;
+}
+
+tr th {
+    text-transform: uppercase;
+}
+
+
